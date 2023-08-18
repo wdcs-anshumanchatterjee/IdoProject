@@ -3,6 +3,6 @@
 build.log
 
 # aptos
-*./ido/.aptos/
-*./idoCoin/.aptos/
-*./stableCoin/.aptos/
+./ido/.aptos/
+./idoCoin/.aptos/
+./stableCoin/.aptos/

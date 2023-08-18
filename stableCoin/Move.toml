@@ -1,0 +1,17 @@
+[package]
+name = 'stableCoin'
+version = '1.0.0'
+authors = []
+
+[addresses]
+coin_address1="0xbbc55d03f70ac66274200299d410a1441043af093fd601ecfd0e9d44692a9cb7"
+
+admin="0x17c9bc1eea6e841fee9663c2894d1360b33c303e7889be66059a5ee26ad3418a"
+resource_admin="0x17c9bc1eea6e841fee9663c2894d1360b33c303e7889be66059a5ee26ad3418a"
+[dev-addresses]
+[dependencies.AptosFramework]
+git = 'https://github.com/aptos-labs/aptos-core.git'
+rev = 'mainnet'
+subdir = 'aptos-move/framework/aptos-framework'
+
+[dev-dependencies]

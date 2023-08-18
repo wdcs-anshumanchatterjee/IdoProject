@@ -1,0 +1,34 @@
+---
+compiled_package_info:
+  package_name: ido
+  address_alias_instantiation:
+    Extensions: "0000000000000000000000000000000000000000000000000000000000000001"
+    admin: 17c9bc1eea6e841fee9663c2894d1360b33c303e7889be66059a5ee26ad3418a
+    aptos_framework: "0000000000000000000000000000000000000000000000000000000000000001"
+    aptos_std: "0000000000000000000000000000000000000000000000000000000000000001"
+    aptos_token: "0000000000000000000000000000000000000000000000000000000000000003"
+    coin_address: 1459a60535295c06c03dbfa461efee1b9127da5e83a8b0ca4a7d40e0c44031a7
+    coin_address1: bbc55d03f70ac66274200299d410a1441043af093fd601ecfd0e9d44692a9cb7
+    core_resources: 000000000000000000000000000000000000000000000000000000000a550c18
+    resource_admin: 17c9bc1eea6e841fee9663c2894d1360b33c303e7889be66059a5ee26ad3418a
+    std: "0000000000000000000000000000000000000000000000000000000000000001"
+    vm_reserved: "0000000000000000000000000000000000000000000000000000000000000000"
+  source_digest: 9CF17C93A40CDC5DB817D32AFEBAC59123ACE20FA097F9DEB264EE1C3118237A
+  build_flags:
+    dev_mode: false
+    test_mode: false
+    generate_docs: false
+    generate_abis: false
+    install_dir: ~
+    force_recompilation: false
+    additional_named_addresses: {}
+    architecture: ~
+    fetch_deps_only: false
+    skip_fetch_latest_git_deps: false
+    bytecode_version: ~
+dependencies:
+  - AptosFramework
+  - AptosStdlib
+  - MoveStdlib
+  - idoCoin
+  - stableCoin

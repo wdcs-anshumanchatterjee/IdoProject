@@ -1,0 +1,34 @@
+---
+profiles:
+  default:
+    private_key: "0xd405ff857fda53a5dd8e86f9166efe8ab72ec35bac22c8832559857029034194"
+    public_key: "0x58bc9505b751fcbe5730c59dce76d8611750100fe113bcc9cea74b87b4cddf65"
+    account: 17c9bc1eea6e841fee9663c2894d1360b33c303e7889be66059a5ee26ad3418a
+    rest_url: "https://fullnode.devnet.aptoslabs.com"
+    faucet_url: "https://faucet.devnet.aptoslabs.com"
+  delegator1:
+    private_key: "0xeb323008257d127a457c03b321302cccdb569d288a38c63c4a4d60250f695066"
+    public_key: "0x0ac822a4bcfee652570b4e96ce386a765f3e5cb76c12259a7f71b481b7f07235"
+    account: 38870e35734529a91bbb08e5d42a328cabfbf45237a2f6cf5fe8c5476cabfd16
+    rest_url: "https://fullnode.devnet.aptoslabs.com"
+    faucet_url: "https://faucet.devnet.aptoslabs.com"
+  delegator2:
+    private_key: "0xd5ad29f746f7481d6cd7cf7c29036eb0243e4c98f59e50661711d27a1cef16fe"
+    public_key: "0x49213bf3926a9ed63c683995df44dfc11383bffd93d820ae5d6344234aa475d5"
+    account: 2ee2bea458bd364727276fbb431479f708acf51d3f56bbcfe7349fd7aea81644
+    rest_url: "https://fullnode.devnet.aptoslabs.com"
+    faucet_url: "https://faucet.devnet.aptoslabs.com"
+  user1:
+    private_key: "0x4e76d130ffc42568b50c9ea38fa26d3ed34096021cb77dff96f53c312772e050"
+    public_key: "0x910c3a7d9b5c3abb6b287e14adafbf9673bfbc07ece431b59a465924fba0e083"
+    account: 86c2ebfa28402c720aa81ed8c7e502111acd6106f5fbdb4435f3c0852c590dd8
+    rest_url: "https://fullnode.devnet.aptoslabs.com"
+    faucet_url: "https://faucet.devnet.aptoslabs.com"
+  user2:
+    private_key: "0xe783abb08e21f4dd29634f51814a425a2cae560b89e0a6fe776fb46cf2848ea0"
+    public_key: "0x45e584aa8f848408311b7d728ae0526e89da63889848aafe661ecaedfc3e8a30"
+    account: 0965a8c350420c4bc0e3881513ec3ec88b1df826faa71f7f29f9a6fa1235742a
+    rest_url: "https://fullnode.devnet.aptoslabs.com"
+    faucet_url: "https://faucet.devnet.aptoslabs.com"
+# token Address 0x1459a60535295c06c03dbfa461efee1b9127da5e83a8b0ca4a7d40e0c44031a7::idoCoin::mint
+# stable COin Address 0x4eb740d505d5074dbf21d42e5d70a97964ccfb71a0d447e34e05446fa086c494

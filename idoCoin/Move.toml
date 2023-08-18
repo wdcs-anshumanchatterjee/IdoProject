@@ -1,0 +1,16 @@
+[package]
+name = 'idoCoin'
+version = '1.0.0'
+authors = []
+
+[addresses]
+coin_address="0x1459a60535295c06c03dbfa461efee1b9127da5e83a8b0ca4a7d40e0c44031a7"
+admin="0x17c9bc1eea6e841fee9663c2894d1360b33c303e7889be66059a5ee26ad3418a"
+resource_admin="0x17c9bc1eea6e841fee9663c2894d1360b33c303e7889be66059a5ee26ad3418a"
+[dev-addresses]
+[dependencies.AptosFramework]
+git = 'https://github.com/aptos-labs/aptos-core.git'
+rev = 'mainnet'
+subdir = 'aptos-move/framework/aptos-framework'
+
+[dev-dependencies]

@@ -1,0 +1,16 @@
+[package]
+name = 'ido'
+version = '1.0.0'
+authors = []
+
+[addresses]
+admin="0x17c9bc1eea6e841fee9663c2894d1360b33c303e7889be66059a5ee26ad3418a"
+resource_admin="0x17c9bc1eea6e841fee9663c2894d1360b33c303e7889be66059a5ee26ad3418a"
+
+[dev-addresses]
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-framework/", rev = "mainnet" }
+idoCoin = { local = './../idoCoin' }
+stableCoin = { local = './../stableCoin' }
+[dev-dependencies]
